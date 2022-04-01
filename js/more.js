@@ -1,5 +1,5 @@
 $.ajax({
-    url:'../ajax/data.json',
+    url:'./ajax/data.json',
     success:function(data){
         let elCoffee ='';    let elCoffee1 =''; let elCoffee2 = '';
         let elPretzel1 = '';  let elPretzel2 ='';
